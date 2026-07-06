@@ -87,4 +87,5 @@
     "workbench.settings.applyToAllProfiles": [
       "chat.disableAIFeatures"
     ],
+    "chat.disableAIFeatures": true,
 }
